@@ -33,6 +33,7 @@ Do you exercise at home?
     <input type="checkbox" name="Web">Online resources
     <input type="checkbox" name="PHONE">PHONE APPS
     <input type="checkbox" name="Magazines">Magazin
+    <h1>aaaaaaa<h1/>
 </p>
 What genre of movies do you like?
 <select name="moviepref" ><option>
